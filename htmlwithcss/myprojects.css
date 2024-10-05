@@ -1,0 +1,54 @@
+nav{
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+    padding: 10px;
+    }
+    logo{
+    font-size: 100px;
+    font-weight: bold;
+    color: #333;
+    cursor: pointer;
+    position: auto;
+
+    }
+    logo::first-letter{
+    font-size: 150px;
+    border: 2px solid #222;
+    border-right: transparent;
+    padding: 5px;
+    color: saddlebrown;
+    position: auto;
+
+    }
+    nav ul li{
+        display: inline-block;
+        list-style: none;
+        padding: 10px 30px;
+        font-size: 50px;
+       position: auto;
+
+    }
+    nav ul li a{
+       position: relative;
+       color: #333;
+       font-weight: bold;
+       padding:5px ;
+       position: auto;
+    }
+    body{
+        background-color:rgb(206, 162, 130) ;
+        margin: auto;
+        background-position: auto;
+    }
+    body linkproject{
+        background-position: auto;
+    }
+    body linkproject{
+        font-size:500%;
+        padding: 20px;
+    }
+    body linkproject a{
+        padding: 20px;
+        
+    }

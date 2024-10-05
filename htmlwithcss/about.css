@@ -1,0 +1,118 @@
+body{
+    background-color:rgb(209, 163, 131);
+    position: relative;
+}
+nav{
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+    padding: 10px;
+    }
+    logo{
+    font-size: 100px;
+    font-weight: bold;
+    color: #333;
+    cursor: pointer;
+    }
+    logo::first-letter{
+    font-size: 150px;
+    border: 2px solid #222;
+    border-right: transparent;
+    padding: 5px;
+    color: saddlebrown;
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    padding: 10px 30px;
+    font-size: 50px;
+}
+nav ul li a{
+    position: relative;
+    color: #333;
+    font-weight: bold;
+    padding:5px ;
+    position: auto;
+ }
+body about h1{
+color: #333;
+font-size: 100px;
+left: 100;
+}
+
+body about hobby ul li{
+
+color: #1f1a1a;
+font-size: 100px;
+padding: 50px;
+font-style:normal;
+font-family:monospace;
+font-weight: bolder;
+border-radius: #1f1a1a;
+border-style: ridge ;
+border-color: #df9433;
+border-width: 30px;
+border-right-width: 20px;
+border-block-width: 30px;
+border-top-right-radius: 10px;
+border-spacing: 100px;
+border-collapse:separate ;
+height: 80px;
+width: 50%;
+}
+about article{
+    font-size:medium;
+    font-family:serif;
+    position: center;
+    padding: 50px;
+}
+
+about hobby img{
+display: block;
+position:relative;
+margin-left: auto;
+margin-right: auto;
+width: 90.33px;
+padding: 20px;
+border-image-outset: 100%;
+top:10%;
+border-radius: 50px;
+inline-size: 900px;
+float:left;
+left: 80px;
+}
+body about article{
+font-size: 100px;
+left: 10px;
+
+
+}
+
+body about .paragraph {
+font-size: 100px;
+size: 100px;
+right: 2000px;
+margin-left: 3000px;
+margin-bottom:5%;
+}
+body about form {
+    font-size: 100px;
+    size: 100px;
+    right: 2000px;
+    margin-left: 3000px;
+    margin-bottom:0%;}
+body about form input {
+        font-size: 100px;
+        size: 10000%;
+        right: 2000px;
+        margin-left: 30px;
+        margin-bottom:0%;}
+body about from button{
+    size: 10000px;
+    right: 2000px;
+    margin-left: 30px;
+    margin-bottom:0%;
+    block-size:10000%;
+}        
+
+
