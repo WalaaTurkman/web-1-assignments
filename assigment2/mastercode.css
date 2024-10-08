@@ -56,10 +56,10 @@ margin-bottom: 10px;
 img{
     display: block;
     position:relative;
-    width: 80%;
+    width: 70%;
     height: 90%;
-    left: 100%;
-    top:2%;
+    left: 120%;
+    top:1%;
     background-color: #F1F1F1;
     border-radius: 400px;
 }
